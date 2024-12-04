@@ -1,19 +1,22 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Antier Solutions
+  position: Blockchain Developer
+  duration: November 2022 - Present
+  summary: Worked in blockchain development, researching latest technologies and few smart contracts.
+  projects:
+  <li>E-Voting Module: Engineered secure E-Voting module for Substrate blockchain in Rust,incorporating benchmarks and comprehensive testing</li>
+  <li>pBFTAlgorithm: Developed a pBFT algorithm in Rust using the libp2p crate after detailed research</li>
+  <li>HyperledgerFabric: DevelopedlogisticssmartcontractonHyperledgerFabric,applyingadvanced
+concepts mastered through hands-on tutorials</li></ul>
+  <li>ZK-Rollup: EvaluatedZK-Sync'sZK-Rolluparchitectureasablockchainscalingsolution,assessing
+performance and feasibility</li>
+  <li>Zero-KnowledgeProofs: Conductedin-depthanalysisofZK-SNARK,includingSubstrateintegration
+possibilities, while gaining foundational knowledge of ZK-STARK and other ZK proof systems</li>
+
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: StreamMoney (Web3Startup)
+  position: Backend Developer
+  duration: April 2022 - June 2022
+  summary: Maintained the Rust codebase for Solana backend and implemented a feature in the DApp to adjust smart contract parameters based on user input.
